@@ -26,7 +26,7 @@ intro:
 * [Thomas F. Varley, PhD](https://thosvarley.github.io/)
 * [Krishna Kannan Srinivasan](https://scholar.google.com/citations?user=7JYQI7MAAAAJ&hl=en)
 
-**Tufts University / Allen Discovery Institute**
+**Tufts University / Allen Discovery Center**
 
 * [Doug Blackiston, PhD*](https://www.douglasblackiston.com/)
 * [Michael Levin, PhD](https://drmichaellevin.org/)
