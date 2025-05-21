@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : &name "Xenomics"
+title                    : &name "CDO2025"
 title_separator          : "-"
-subtitle                 : "Revealing the functional complexity of biology"
+subtitle                 : "Computationally Designed Organisms 2025"
 name                     : *name 
-description              : "Revealing the functional complexity of biology"
-url                      : "https://xenomics-science.github.io"
+description              : "Webpage for the Computationaly Designed Organism 2025 Symposium"
+url                      : "https://cdo2025.github.io/"
 baseurl                  : 
-repository               : "xenomics-science/xenomics-science.github.io"
+repository               : "cdo2025/cdo2025.github.io"
 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/lattice_white.png"
