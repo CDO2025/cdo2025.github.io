@@ -16,5 +16,5 @@ intro:
   - excerpt: ""
 
 ---
-schedule
+Schedule.
 ---
