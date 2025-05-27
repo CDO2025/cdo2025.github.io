@@ -17,12 +17,10 @@ intro:
 
 ---
 
-*Computationally Designed Organism*: An organism that has been designed by AI.”
+*Computationally Designed Organism*: An organism that has been designed by AI.
 
 # Background
 
-Xenobots and anthrobots are the first “products” of the emerging field of computer-designed organisms (CDOs). CDOs result from AI dictating how to rearrange living tissues to create autonomous machines that could perform useful work. Robots built from living rather than inorganic materials have several potential advantages, such as intrinsic adaptability, more flexible structures, and generalizable use. However, to achieve such endeavors, it remains necessary to understand what makes living materials suitable building materials for robots. To that end, in this paper, we show that despite being liberated from the host `frog, bits of frog skin maintain their adaptive abilities. When punctured with a small pin, the cells within the skin explant rapidly recover their ability to cooperate. This suggests that more complex biobots of the future may be easier to make and maintain because they come “pre-loaded” with the adaptive capabilities intrinsic to their host systems.
-
-How do individual cells share information to coordinate tissue and organism level function?  This question is central to understanding many diverse processes in biology, including organ development, wound healing, growth, and regeneration.  Likewise, if investigators were able to decode and control these cellular conversations, they might be able to rearrange living tissues into new forms, creating autonomous synthetic machines that could perform useful work - as observed in the emerging field of computer-designed organisms (CDOs).  Towards this goal, the field of neuroscience has developed several mathematical approaches to track information flows through a complex central nervous system. In this paper, we applied these neuroscience methods to non-neural cells, revealing non-random information dynamics in a developing skin explant.  Further these information dynamics restructure following injury, suggesting long-term rearrangements in the information patterns of cell coordination - which could one day be manipulated towards numerous biomedical and bioengineering goals.
+In 2020 and 2021, four scientists---Doug Blackiston, Sam Kriegman, Mike Levin and Josh Bongard---published a series of papers describing the first Computationally Designed Organisms (CDOs). To immerse select members of academia, industry, and government in this burgeoning field, the first workshop on computationally designed organisms is being convened at the **University of Vermont** in Burlington, VT on **July 14 and 15**.
 
 ---
