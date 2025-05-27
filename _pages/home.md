@@ -1,5 +1,5 @@
 ---
-title: "Xenomics"
+title: "CDO2025"
 layout: splash
 permalink: /
 date: 2025-03-17
