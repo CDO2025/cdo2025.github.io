@@ -1,5 +1,5 @@
 ---
-title: "Code"
+title: "Schedule"
 layout: splash
 permalink: /code/
 date: 2025-03-17
@@ -16,7 +16,5 @@ intro:
   - excerpt: ""
 
 ---
-All of the code for the paper is available at: 
-
-[https://github.com/caitlingrasso/bio-connectivity](https://github.com/caitlingrasso/bio-connectivity)
+schedule
 ---
