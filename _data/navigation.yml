@@ -2,10 +2,10 @@
 main:
   - title: "Schedule"
     url: /schedule/
+  - title: "FAQ"
+    url: /faq/
   - title: "Outcomes"
     url: /outcomes/
-  - title: "Papers"
-    url: /papers/
   - title: "Contact"
     url: /contact/ 
   # - title: "Sample Posts"
