@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Schedule"
+  - title: "schedule"
     url: /schedule/
-  - title: "FAQ"
+  - title: "faq"
     url: /faq/
-  - title: "Outcomes"
+  - title: "outcomes"
     url: /outcomes/
-  - title: "Contact"
+  - title: "contact"
     url: /contact/ 
   # - title: "Sample Posts"
   #   url: /year-archive/
