@@ -11,7 +11,7 @@ header:
   #  - label: "Learn more"
   #    url: /about/
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "The xenomics team represented a multi-disciplinary collaboration spanning three Universities over half a decade."
+excerpt: ""
 intro:
   - excerpt: ""
 
