@@ -21,6 +21,6 @@ intro:
 
 # Background
 
-In 2020 and 2021, Doug Blackiston, Sam Kriegman, Mike Levin and Josh Bongard published a series of papers describing the first Computationally Designed Organisms (CDOs). To immerse select members of academia, industry, and government in this burgeoning field, the first workshop on computationally designed organisms is being convened at the **University of Vermont** in Burlington, VT on **July 14 and 15**.
+In 2020 and 2021, Doug Blackiston, Sam Kriegman, Mike Levin and Josh Bongard published a series of papers describing the first Computationally Designed Organisms (CDOs). To immerse select members of academia, industry, and government in this burgeoning field, the first workshop on computationally designed organisms is being convened at the **University of Vermont** in Burlington, VT on **July 14 and 15, 2025**.
 
 ---
