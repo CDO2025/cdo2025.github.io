@@ -17,16 +17,6 @@ intro:
 
 ---
 
-This paper was a multi-center effort from three institutions. You can contact the corresponding authors at the following emails:
-
-**Josh Bongard (UVM)**: jbongard{at}uvm{dot}edu
-
-**Thomas F. Varley (IU, UVM)**: tfvarley{at}uvm{dot}edu
-
-**Mike Levin (Tufts)**: Michael.Levin{at}tufts{dot}edu
-
-**Doug Blackiston (Tufts, primary author)**: douglas.blackiston{at}tufts{dot}edu
-
-**Sara Imari Walker (ASU)**: sara.i.walker{at}asu{dot}edu
+To do.
 
 ---
