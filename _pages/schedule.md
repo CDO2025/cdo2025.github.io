@@ -11,7 +11,7 @@ header:
   #  - label: "Learn more"
   #    url: /about/
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Try the xenomics pipeline on your data."
+excerpt: ""
 intro:
   - excerpt: ""
 
