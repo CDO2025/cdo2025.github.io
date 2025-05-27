@@ -11,7 +11,7 @@ header:
   #  - label: "Learn more"
   #    url: /about/
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "A multi-disciplinary approach to revealing functional complexity in biological systems."
+excerpt: "The First Workshop on Computationally Designed Organisms."
 intro:
   - excerpt: "Combining methodologies from biology, computational neuroscience, and computer science, xenomics is a methodological toolkit for scientists exploring emergent"
 
