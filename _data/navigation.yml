@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Code"
-    url: /code/
-  - title: "Images and Videos"
-    url: /images/
-  - title: "Team"
-    url: /team/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Outcomes"
+    url: /outcomes/
+  - title: "Papers"
+    url: /papers/
   - title: "Contact"
     url: /contact/ 
   # - title: "Sample Posts"
