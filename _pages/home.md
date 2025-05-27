@@ -17,9 +17,7 @@ intro:
 
 ---
 
-**Citation:** Blackiston, D., Dromiack, H., Grasso, C., Varley, T. F., Moore, D. G., Srinivasan, K. K., Sporns, O., Bongard, J., Levin, M., & Walker, S. I. (2025). Revealing non-trivial information structures in aneural biological tissues via functional connectivity. PLOS Computational Biology, 21(4), e1012149. https://doi.org/10.1371/journal.pcbi.1012149
-
-*Xenomics* (from the Greek *xeno*, meaning “newcomer”): understanding the internal coordination and processing among cells within organoids.”
+*Computationally Designed Organism*: An organism that has been designed by AI.”
 
 # Background
 
