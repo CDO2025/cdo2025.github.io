@@ -1,7 +1,7 @@
 ---
 title: "Schedule"
 layout: splash
-permalink: /code/
+permalink: /schedule/
 date: 2025-03-17
 header:
   overlay_color: "#000"
