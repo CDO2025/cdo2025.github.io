@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions."
 layout: splash
-permalink: /images/
+permalink: /faq/
 date: 2025-03-17
 header:
   overlay_color: "#000"
