@@ -1,7 +1,7 @@
 ---
 title: "Outcomes."
 layout: splash
-permalink: /team/
+permalink: /outcomes/
 date: 2025-03-17
 header:
   overlay_color: "#000"
