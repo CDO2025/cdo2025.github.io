@@ -16,7 +16,7 @@ intro:
   - excerpt: ""
 
 ---
-Confirmed Participants.
+Confirmed participants to date.
 ---
 
 <img src="/assets/images/Participants.png" alt="participants">
