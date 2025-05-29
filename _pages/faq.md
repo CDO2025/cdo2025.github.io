@@ -17,6 +17,7 @@ intro:
 
 ---
 Frequently asked questions.
+---
 
 **Q**: Who is invited?
 
@@ -33,5 +34,3 @@ Frequently asked questions.
 **Q**: Can I arrive late / leave early?
 
 **A**: All participants are encouraged to stay for the duration.
-
----
