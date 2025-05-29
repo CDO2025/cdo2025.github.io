@@ -19,7 +19,5 @@ intro:
 Confirmed Participants.
 ---
 
-Josh Bongard, UVM. Co-organizer.
-
-Mike Levin, Tufts. Co-organizer.
+<img src="/assets/images/Participants.png" alt="participants">
 
