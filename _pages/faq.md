@@ -29,3 +29,9 @@ Frequently asked questions.
 **A**: The Hotel Vermont.
 
 ---
+
+**Q**: Can I arrive late / leave early?
+
+**A**: All participants are encouraged to stay for the duration.
+
+---
