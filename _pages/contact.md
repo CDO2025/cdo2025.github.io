@@ -16,7 +16,9 @@ intro:
   - excerpt: ""
 
 ---
-
-To do.
-
+Contact
 ---
+
+Josh Bongard <jbongard@uvm.edu> for content-related questions.
+
+Kathryn Stanton <kathryn.stanton@uvm.edu> for logistics-related questions.
