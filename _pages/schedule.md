@@ -21,5 +21,8 @@ Schedule.
 
 <img src="/assets/images/Day1.png" alt="day 1">
 
+All attendees will participate in the two labs, during which they will learn how to simulate then optimize CDOs in a computer.
+
 <img src="/assets/images/Day2.png" alt="day 2">
 
+During the two labs on day two, attendees will prepare physical CDOs, stimulate them, and observe their reactions.
