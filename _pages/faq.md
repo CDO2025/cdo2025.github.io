@@ -17,4 +17,11 @@ intro:
 
 ---
 Frequently asked questions.
+
+**Q**: Who is invited?
+**A**: Those who helped create CDOs, those directly involved in the work, and those mostly likely to help communicate the potential of CDOs to those in their communities (academic, commercial, governmental).
+
+**Q**: Where are most folks staying?
+**A**: The Hotel Vermont.
+
 ---
