@@ -18,7 +18,7 @@ intro:
 ---
 Schedule.
 
-<img src="/assets/images/Day1.png" alt="day 1" width="500" height="600">
+<img src="/assets/images/Day1.png" alt="day 1">
 
-<img src="/assets/images/Day2.png" alt="day 2" width="500" height="600">
+<img src="/assets/images/Day2.png" alt="day 2">
 ---
