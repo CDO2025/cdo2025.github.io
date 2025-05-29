@@ -29,4 +29,4 @@ Schedule.
 
 ***During the two labs on day two, attendees will prepare physical CDOs, stimulate them, and observe their reactions.
 
-****Attendees will construct a collective rolodex of people and institutions who should be invited to WCDO26 to develop the academic, industrial, and philanthropic potential described in the collaborative document.
+\*\*\*\*Attendees will construct a collective rolodex of people and institutions who should be invited to WCDO26 to develop the academic, industrial, and philanthropic potential described in the collaborative document.
