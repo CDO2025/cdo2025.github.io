@@ -16,7 +16,6 @@ intro:
   - excerpt: ""
 
 ---
-Contact
 ---
 
 Josh Bongard <jbongard@uvm.edu> for content-related questions.
