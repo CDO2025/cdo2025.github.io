@@ -16,7 +16,6 @@ intro:
   - excerpt: ""
 
 ---
-Schedule.
 ---
 
 <img src="/assets/images/Day1.png" alt="day 1">
