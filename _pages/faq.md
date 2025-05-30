@@ -16,7 +16,6 @@ intro:
   - excerpt: ""
 
 ---
-Frequently asked questions.
 ---
 
 **Q**: Who is invited?
