@@ -11,7 +11,7 @@ header:
   #  - label: "Learn more"
   #    url: /about/
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Frequently asked questions"
+#excerpt: "Frequently asked questions"
 intro:
   - excerpt: ""
 
