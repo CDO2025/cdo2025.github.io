@@ -1,5 +1,5 @@
 ---
-title: "Contact the authors"
+title: "Contact"
 layout: splash
 permalink: /contact/
 date: 2025-03-17
