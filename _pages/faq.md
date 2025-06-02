@@ -24,6 +24,12 @@ intro:
 
 ---
 
+**Q**: What is the benefit of attending, even if I am not giving a talk?
+
+**A**: Gaining a deeper appreciation of CDOs and their potential. But, more importantly, forging social ties with like-minded big thinkers who, like you, have experience founding new technologies, disciplines, and industries, and are keen to do so again.
+
+---
+
 **Q**: Where are most folks staying?
 
 **A**: The Hotel Vermont.
