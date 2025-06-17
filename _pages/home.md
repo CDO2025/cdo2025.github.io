@@ -29,5 +29,6 @@ This first WCDO is modeled on the [1956 Dartmouth Conference on Artificial Intel
 
 1. [Scientific branch creation](https://www.freaktakes.com/p/a-report-on-scientific-branch-creation).
 2. [Xenobots](https://en.wikipedia.org/wiki/Xenobot).
+3. [The Institute for Computationally Designed Organisms](https://icdorgs.org/)
 
 ---
