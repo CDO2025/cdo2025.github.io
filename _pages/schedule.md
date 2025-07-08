@@ -18,6 +18,10 @@ intro:
 ---
 ---
 
+If driving, please park here.
+
+Please walk to Innovation E210, which is here.
+
 <img src="/assets/images/Day1.png" alt="day 1">
 
 <img src="/assets/images/Day2.png" alt="day 2">
