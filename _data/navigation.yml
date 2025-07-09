@@ -4,8 +4,6 @@ main:
     url: /participants/
   - title: "schedule"
     url: /schedule/
-  - title: "parking"
-    url: /parking/
   - title: "faq"
     url: /faq/
   - title: "outcomes"
