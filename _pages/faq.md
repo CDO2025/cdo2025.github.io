@@ -18,6 +18,12 @@ intro:
 ---
 ---
 
+**Q**: *Where do I park?*
+
+**A**: UVM's [Votey parking lot](https://www.google.com/maps/place/Parking+lot,+Burlington,+VT+05405,+USA/@44.4800349,-73.1982213,18z/data=!3m1!4b1!4m6!3m5!1s0x4cca7a5c5e88ee33:0x9f6232d31494638f!8m2!3d44.4800999!4d-73.1982795!16s%2Fg%2F11c1f_8bd1?authuser=0&entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D).
+
+---
+
 **Q**: *Who is invited?*
 
 **A**: Those who helped create CDOs, those directly involved in the work, and those mostly likely to help communicate the potential of CDOs to those in their communities (academic, commercial, governmental).
