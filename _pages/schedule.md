@@ -30,6 +30,6 @@ Please walk to Innovation E210, which is here.
 
 **Attendees will construct a collaborative document mapping out future streams of academic, educations, industrial, and philanthropic development for CDOs.
 
-***During the two labs on day two, attendees will prepare physical CDOs, stimulate them, and observe their reactions.
+***During the lab on day two, attendees will observe Biobots, agential material, and interactions between different agential materials.
 
 \*\*\*\*Attendees will construct a collective rolodex of people and institutions who should be invited to WCDO26 to develop the academic, industrial, and philanthropic potential described in the collaborative document.
