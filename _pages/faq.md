@@ -24,6 +24,12 @@ intro:
 
 ---
 
+**Q**: *Where do I go once I park or reach campus?*
+
+**A**: Go [here](https://drive.google.com/file/d/17hk3gz0XMFbxzu5tiixK_oYyt2wWId4x/view?usp=sharing).
+
+---
+
 **Q**: *Who is invited?*
 
 **A**: Those who helped create CDOs, those directly involved in the work, and those mostly likely to help communicate the potential of CDOs to those in their communities (academic, commercial, governmental).
