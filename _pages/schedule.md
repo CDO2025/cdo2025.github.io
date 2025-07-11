@@ -24,7 +24,7 @@ intro:
 
 *All attendees will participate in the two labs, during which they will learn how to simulate then optimize CDOs in a computer.
 
-**Attendees will construct a collaborative document mapping out future streams of academic, educations, industrial, and philanthropic development for CDOs.
+**Attendees will construct a collaborative document mapping out future streams of academic, educational, industrial, venture, medical, legal and philanthropic development for CDOs.
 
 ***During the lab on day two, attendees will observe Biobots, agential material, and interactions between different agential materials.
 
