@@ -19,9 +19,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : &name "CDO2025"
 title_separator          : "-"
-subtitle                 : "Workshop on Computationally Designed Organisms"
+subtitle                 : "Abele Workshop on Computationally Designed Organisms"
 name                     : *name 
-description              : "Workshop on Computationally Designed Organisms"
+description              : "Abele Workshop on Computationally Designed Organisms"
 url                      : "https://cdo2025.github.io/"
 baseurl                  : 
 repository               : "cdo2025/cdo2025.github.io"
