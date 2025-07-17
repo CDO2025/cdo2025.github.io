@@ -6,8 +6,8 @@ main:
     url: /schedule/
   - title: "faq"
     url: /faq/
-  - title: "outcomes"
-    url: /outcomes/
+  - title: "videos"
+    url: /videos/
   - title: "contact"
     url: /contact/ 
   # - title: "Sample Posts"
