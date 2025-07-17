@@ -18,6 +18,14 @@ intro:
 ---
 ---
 
+<p>John Abele:</p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9hx-zV4l4iE?si=gKBght0eky6YyQbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<p>Eugene Durenard:</p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/55UMsGKDii0?si=-cVOpeN1DcMKtCpK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Thomas Varley:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zJQonS1Frxg?si=UWrZXXVHPagfZ-Np" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
