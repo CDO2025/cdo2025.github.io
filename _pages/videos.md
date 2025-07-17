@@ -18,4 +18,4 @@ intro:
 ---
 ---
 
-Three outcomes are expected. First, the invitees will come away with a deeper understanding of what CDOs are, and what their academic, industrial, therapeutic, and educational potential may be. Second, the invitees will jointly author a document detailing these potentials. Third, the invitees will develop and curate a growing list of individuals and institutions best poised to realize these potentials. Many of these individuals and institutions will be invited to a larger Workshop on Computationally Designed Organisms in the summer of 2026. 
+<iframe width="560" height="315" src="https://youtu.be/9hx-zV4l4iE?feature=shared" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
