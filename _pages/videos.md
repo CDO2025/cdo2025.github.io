@@ -18,4 +18,4 @@ intro:
 ---
 ---
 
-<iframe width="560" height="315" src="https://youtu.be/9hx-zV4l4iE?feature=shared" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="responsive-video"> <iframe src="https://youtu.be/9hx-zV4l4iE?feature=shared" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
