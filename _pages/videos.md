@@ -31,3 +31,8 @@ intro:
 <p>Thomas Varley:</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJQonS1Frxg?si=UWrZXXVHPagfZ-Np" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p></p>
+<p>Amanda Bertschinger (1st tutorial):</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BZksscRgma8?si=ORYdzNTfnSNntLTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
