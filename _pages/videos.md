@@ -46,3 +46,8 @@ intro:
 <p>Mike Levin:</p>
 
 <iframe width="955" height="597" src="https://www.youtube.com/embed/VqFiWuP2W5s" title="Mike Levin&#39;s talk at WCDO25 (July 2025)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p></p>
+<p>Vaibhav Pai (2nd tutorial):</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7K2YOq_MYhQ?si=8N6V7nmr4UCsTYK7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
