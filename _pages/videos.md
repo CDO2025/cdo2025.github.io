@@ -53,6 +53,13 @@ intro:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7K2YOq_MYhQ?si=8N6V7nmr4UCsTYK7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p></p>
+
+<p></p>
+<p>Wesley Clawson:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XRoxnPHBivo?si=5M4yD63giqeY91tt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p></p>
 <p>Haleh Fotowat:</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pKw1MG3mPY?si=TpIY_BC53EEKMxjZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
