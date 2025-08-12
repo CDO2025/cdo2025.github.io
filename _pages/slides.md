@@ -18,6 +18,6 @@ intro:
 ---
 ---
 
-<p>Josh Bongard's slides.</p>
+<p>Josh Bongard's <a href='https://drive.google.com/file/d/1fA1avJzWOuKGpmaXQMoj2JBwSfZSCGOT/view?usp=drive_link'>slides</a>.</p>
 
 <p>John Abele's slides.</p>
