@@ -23,3 +23,5 @@ intro:
 <p>John Abele's <a href='https://drive.google.com/file/d/1YZ2aaKXTehGOt0c6m2jNC93CwP6R6f7w/view?usp=drive_link'>slides</a>.</p>
 
 <p>Mike Levin's <a href='https://drive.google.com/file/d/1fzlAbuMQUQ3z-03jah0Eg092WKN8eq6s/view?usp=drive_link'>slides</a>.</p>
+
+<p>Wesley Clawson's <a href='https://docs.google.com/presentation/d/1-wLOZGUpxljVZx0Koglb4m7FVplw-H20/edit?usp=drive_link&ouid=113541045621049707214&rtpof=true&sd=true'>slides</a>.</p>
