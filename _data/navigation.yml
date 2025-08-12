@@ -8,6 +8,8 @@ main:
     url: /faq/
   - title: "videos"
     url: /videos/
+  - title: "slides"
+    url: /slides/  
   - title: "contact"
     url: /contact/ 
   # - title: "Sample Posts"
