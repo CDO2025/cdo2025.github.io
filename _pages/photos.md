@@ -27,3 +27,7 @@ intro:
 <B>Third row</B> (L to R): Kam Bielawski, Katrina Schleisman, Shawn Beaulieu, Krishna Srinivasan, John Abele, Yang Cao, Stephen Wolfram.
 
 <B>Front row</B> (L to R): Naimish Patel, Mike Levin, Randy Castleman, Claire Webb, Josh Bongard, -------------- , Martin Schwalm, Haleh Fotowat, Wesley Clawson, Erum Azeez Khan
+
+<img src="/assets/images/IMG_4827.jpg" alt="attendees">
+
+<img src="/assets/images/IMG_4900.jpg" alt="attendees">
