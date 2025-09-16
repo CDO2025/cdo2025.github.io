@@ -1,7 +1,7 @@
 ---
 title: "Photos."
 layout: splash
-permalink: /videos/
+permalink: /photos/
 date: 2025-03-17
 header:
   overlay_color: "#000"
