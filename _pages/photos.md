@@ -18,4 +18,4 @@ intro:
 ---
 ---
 
-<img src="/assets/images/Attendees.png" alt="attendees">
+<img src="/assets/images/Attendees.jpg" alt="attendees">
