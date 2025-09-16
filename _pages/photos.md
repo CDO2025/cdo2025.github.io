@@ -21,6 +21,9 @@ intro:
 <img src="/assets/images/Attendees.jpg" alt="attendees">
 
 Top row (L to R): Jesse Stein, Tristan Tajer, Eugene Durenard, Thomas Varley, Willem Nielsen.
+
 Second row (L to R): Vaibhav Pai, Robert Brucker, Carlo Ventura, Rob Lair, Zach Lyman, Tim Wall.
+
 Third row (L to R): Kam Bielawski, Katrina Schleisman, Shawn Beaulieu, Krishna Srinivasan, John Abele, Yang Cao, Stephen Wolfram.
+
 Front row (L to R): Naimish Patel, Mike Levin, Randy Castleman, Claire Webb, Josh Bongard, -------------- , Martin Schwalm, Haleh Fotowat, Wesley Clawson, Erum Azeez Khan
