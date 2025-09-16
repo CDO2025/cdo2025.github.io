@@ -17,3 +17,5 @@ intro:
 
 ---
 ---
+
+<img src="/assets/images/Attendees.png" alt="attendees">
