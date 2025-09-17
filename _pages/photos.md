@@ -20,7 +20,7 @@ intro:
 
 <img src="/assets/images/Attendees.png" alt="attendees">
 
-<B>Top row</B> (L to R): Jesse Stein, Tristan Tajer, Eugene Durenard, Thomas Varley, Willem Nielsen.
+<B>Top row</B> (L to R): Jesse Stein, Tristan Tajer, Eugene Durenard, Thomas Varley, Willem Nielsen. <I>In absentia:</I> Jeantine Lunshof, Amanda Bertschinger, Kathryn Stanton.
 
 <B>Second row</B> (L to R): Vaibhav Pai, Robert Brucker, Carlo Ventura, Rob Lair, Zach Lyman, Tim Wall.
 
