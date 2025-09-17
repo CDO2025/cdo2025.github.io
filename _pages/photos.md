@@ -18,7 +18,7 @@ intro:
 ---
 ---
 
-<img src="/assets/images/Attendees.jpg" alt="attendees">
+<img src="/assets/images/Attendees.png" alt="attendees">
 
 <B>Top row</B> (L to R): Jesse Stein, Tristan Tajer, Eugene Durenard, Thomas Varley, Willem Nielsen.
 
